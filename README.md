@@ -6,3 +6,4 @@ Handled malformed close frames without breaking the session
 Simplified session cleanup after disconnect
 Fixed a timeout edge case during session startup
 Fixed frame parsing when payload length is missing
+Improved cleanup for sessions closed during reconnect
