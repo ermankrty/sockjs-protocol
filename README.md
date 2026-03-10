@@ -10,3 +10,4 @@ Improved cleanup for sessions closed during reconnect
 Fixed heartbeat handling after a brief connection drop
 Fixed session recovery after an interrupted transport switch
 Simplified validation for incoming message frames
+Improved cleanup when a polling request is cancelled
