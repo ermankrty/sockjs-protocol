@@ -9,3 +9,4 @@ Fixed frame parsing when payload length is missing
 Improved cleanup for sessions closed during reconnect
 Fixed heartbeat handling after a brief connection drop
 Fixed session recovery after an interrupted transport switch
+Simplified validation for incoming message frames
