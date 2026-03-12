@@ -14,3 +14,4 @@ Improved cleanup when a polling request is cancelled
 Fixed reconnect handling when the transport closes unexpectedly
 Reduced duplicate session checks during polling
 Fixed message ordering after a reconnect
+Improved handling for empty polling responses
