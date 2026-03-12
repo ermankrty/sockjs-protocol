@@ -15,3 +15,4 @@ Fixed reconnect handling when the transport closes unexpectedly
 Reduced duplicate session checks during polling
 Fixed message ordering after a reconnect
 Improved handling for empty polling responses
+Removed an unnecessary transport state check
