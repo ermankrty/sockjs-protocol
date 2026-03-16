@@ -19,3 +19,4 @@ Removed an unnecessary transport state check
 Fixed a reconnect edge case after receiving a close frame
 Fixed session state after a transport fallback
 Improved cleanup for completed polling requests
+Fixed session state after a transport fallback
