@@ -21,3 +21,4 @@ Fixed session state after a transport fallback
 Improved cleanup for completed polling requests
 Fixed session state after a transport fallback
 Improved cleanup for completed polling requests
+Fixed cleanup when a session closes during an active poll
