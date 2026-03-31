@@ -28,3 +28,4 @@ Improved response handling after a polling timeout
 Fixed duplicate message delivery after reconnect
 Improved transport fallback when polling fails
 Removed stale session data before reconnecting
+Handled close frames received during an active request
