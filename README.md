@@ -25,3 +25,4 @@ Fixed cleanup when a session closes during an active poll
 Fixed frame handling when a session reconnects mid-request
 Simplified cleanup for stale transport state
 Improved response handling after a polling timeout
+Fixed duplicate message delivery after reconnect
