@@ -32,3 +32,4 @@ Handled close frames received during an active request
 Fixed session recovery when the transport reconnects too quickly
 Simplified frame cleanup after a failed poll
 Fixed a session timeout edge case during reconnect
+Fixed message buffering when the connection drops mid-send
