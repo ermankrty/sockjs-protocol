@@ -35,3 +35,4 @@ Fixed a session timeout edge case during reconnect
 Fixed message buffering when the connection drops mid-send
 Improved cleanup for abandoned polling sessions
 Simplified transport selection after reconnect
+Fixed reconnect behavior when the previous session is still closing
