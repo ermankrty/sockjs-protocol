@@ -38,3 +38,4 @@ Simplified transport selection after reconnect
 Fixed reconnect behavior when the previous session is still closing
 Reduced duplicate transport checks during initialization
 Fixed a case where reconnect attempts continued after session closure
+Fixed frame delivery after a delayed reconnect
