@@ -42,3 +42,4 @@ Fixed frame delivery after a delayed reconnect
 Improved cleanup for expired transport sessions
 Fixed a case where heartbeat timers were not cleared after disconnect
 Fixed duplicate heartbeat scheduling after reconnect
+Improved handling for responses received after session close
