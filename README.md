@@ -44,3 +44,4 @@ Fixed a case where heartbeat timers were not cleared after disconnect
 Fixed duplicate heartbeat scheduling after reconnect
 Improved handling for responses received after session close
 Simplified transport cleanup when reconnect attempts fail
+Fixed session recovery when polling resumes after a pause
