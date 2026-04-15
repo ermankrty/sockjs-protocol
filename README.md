@@ -48,3 +48,4 @@ Fixed session recovery when polling resumes after a pause
 Improved frame handling when multiple messages arrive together
 Removed an unnecessary reconnect state transition
 Fixed a case where pending frames were not cleared after disconnect
+Fixed session cleanup when a transport closes before initialization finishes
