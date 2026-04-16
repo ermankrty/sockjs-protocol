@@ -53,3 +53,4 @@ Improved handling for duplicate open frames
 Fixed reconnect handling when a session expires between polls
 Improved frame validation for malformed payloads
 Removed duplicate cleanup during transport fallback
+Handled delayed responses after a session has already closed
