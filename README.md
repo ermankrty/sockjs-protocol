@@ -55,3 +55,4 @@ Improved frame validation for malformed payloads
 Removed duplicate cleanup during transport fallback
 Handled delayed responses after a session has already closed
 Fixed a case where session cleanup ran twice after disconnect
+Fixed a case where retry state was not cleared after reconnect
