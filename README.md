@@ -57,3 +57,4 @@ Handled delayed responses after a session has already closed
 Fixed a case where session cleanup ran twice after disconnect
 Fixed a case where retry state was not cleared after reconnect
 Improved handling for messages queued during transport changes
+Fixed a case where queued messages remained after session reset
