@@ -60,3 +60,4 @@ Improved handling for messages queued during transport changes
 Fixed a case where queued messages remained after session reset
 Fixed a case where transport state was not reset after a failed reconnect
 Improved handling when a polling request finishes after session closure
+Fixed cleanup for frames left queued during reconnect
