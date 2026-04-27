@@ -63,3 +63,4 @@ Improved handling when a polling request finishes after session closure
 Fixed cleanup for frames left queued during reconnect
 Fixed a reconnect edge case when the previous transport had not fully closed
 Improved message delivery after switching transports
+Removed stale retry metadata during session reset
