@@ -116,3 +116,4 @@ Improved validation for unexpected session responses
 Removed duplicate cleanup from the polling error path
 Fixed pending callback cleanup after transport replacement
 Fixed session state after a reconnect completes out of order
+Improved cleanup for polling callbacks after transport replacement
