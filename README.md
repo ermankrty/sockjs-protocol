@@ -67,3 +67,4 @@ Removed stale retry metadata during session reset
 Fixed message cleanup after a failed transport switch
 Fixed session recovery after a dropped polling connection
 Simplified cleanup for completed transport retries
+Fixed a case where reconnect state persisted after session reset
