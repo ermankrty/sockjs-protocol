@@ -69,3 +69,4 @@ Fixed session recovery after a dropped polling connection
 Simplified cleanup for completed transport retries
 Fixed a case where reconnect state persisted after session reset
 Fixed session recovery after an interrupted reconnect
+Improved message handling while transport state is changing
