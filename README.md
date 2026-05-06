@@ -73,3 +73,4 @@ Improved message handling while transport state is changing
 Removed stale polling state after disconnect
 Fixed a case where reconnect timers continued after session shutdown
 Fixed message delivery when a transport reconnects with pending data
+Simplified session teardown after transport errors
