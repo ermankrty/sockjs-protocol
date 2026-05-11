@@ -75,3 +75,4 @@ Fixed a case where reconnect timers continued after session shutdown
 Fixed message delivery when a transport reconnects with pending data
 Simplified session teardown after transport errors
 Fixed a case where transport errors left stale session state
+Fixed session state after a transport retry succeeds
