@@ -79,3 +79,4 @@ Fixed session state after a transport retry succeeds
 Improved cleanup for stale polling callbacks
 Fixed duplicate close handling during reconnect
 Improved transport recovery after a failed poll
+Fixed a case where transport state was not cleared after a failed handshake
