@@ -83,3 +83,4 @@ Fixed a case where transport state was not cleared after a failed handshake
 Fixed session recovery when a reconnect starts before the previous poll finishes
 Improved validation for malformed transport responses
 Removed stale callbacks after session replacement
+Fixed queued message handling after transport recovery
