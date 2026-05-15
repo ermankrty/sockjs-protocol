@@ -86,3 +86,4 @@ Removed stale callbacks after session replacement
 Fixed queued message handling after transport recovery
 Fixed transport fallback when the preferred connection closes early
 Improved session cleanup after a failed handshake retry
+Handled duplicate messages received during reconnect
