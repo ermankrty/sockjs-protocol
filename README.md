@@ -88,3 +88,4 @@ Fixed transport fallback when the preferred connection closes early
 Improved session cleanup after a failed handshake retry
 Handled duplicate messages received during reconnect
 Simplified transport selection for recovered sessions
+Fixed pending frame cleanup after a session timeout
