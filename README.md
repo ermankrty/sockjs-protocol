@@ -89,3 +89,4 @@ Improved session cleanup after a failed handshake retry
 Handled duplicate messages received during reconnect
 Simplified transport selection for recovered sessions
 Fixed pending frame cleanup after a session timeout
+Fixed a case where session state persisted after a transport timeout
