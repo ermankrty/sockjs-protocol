@@ -90,3 +90,4 @@ Handled duplicate messages received during reconnect
 Simplified transport selection for recovered sessions
 Fixed pending frame cleanup after a session timeout
 Fixed a case where session state persisted after a transport timeout
+Fixed session recovery when reconnect starts during pending cleanup
