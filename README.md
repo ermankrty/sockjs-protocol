@@ -95,3 +95,4 @@ Improved handling for duplicate transport callbacks
 Simplified frame cleanup after session replacement
 Fixed session cleanup when reconnect fails midway
 Improved handling for delayed transport callbacks
+Removed duplicate checks from session recovery
