@@ -93,3 +93,4 @@ Fixed a case where session state persisted after a transport timeout
 Fixed session recovery when reconnect starts during pending cleanup
 Improved handling for duplicate transport callbacks
 Simplified frame cleanup after session replacement
+Fixed session cleanup when reconnect fails midway
