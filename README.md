@@ -100,3 +100,4 @@ Fixed queued frame delivery after transport reset
 Fixed a race condition while switching transports
 Improved handling for stale session callbacks
 Simplified reconnect cleanup after a timeout
+Fixed session recovery after an interrupted heartbeat
