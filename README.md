@@ -107,3 +107,4 @@ Fixed duplicate reconnect attempts after transport failure
 Improved frame delivery when switching transports
 Removed stale session callbacks after reconnect
 Fixed heartbeat scheduling after a failed poll
+Simplified cleanup for replaced transport sessions
