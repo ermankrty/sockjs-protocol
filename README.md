@@ -104,3 +104,4 @@ Fixed session recovery after an interrupted heartbeat
 Improved cleanup for transport state left behind after retry
 Fixed a case where reconnect state was not cleared after a heartbeat failure
 Fixed duplicate reconnect attempts after transport failure
+Improved frame delivery when switching transports
