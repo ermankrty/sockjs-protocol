@@ -106,3 +106,4 @@ Fixed a case where reconnect state was not cleared after a heartbeat failure
 Fixed duplicate reconnect attempts after transport failure
 Improved frame delivery when switching transports
 Removed stale session callbacks after reconnect
+Fixed heartbeat scheduling after a failed poll
