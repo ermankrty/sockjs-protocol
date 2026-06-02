@@ -108,3 +108,4 @@ Improved frame delivery when switching transports
 Removed stale session callbacks after reconnect
 Fixed heartbeat scheduling after a failed poll
 Simplified cleanup for replaced transport sessions
+Fixed session cleanup when a retry completes after disconnect
