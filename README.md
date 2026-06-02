@@ -110,3 +110,4 @@ Fixed heartbeat scheduling after a failed poll
 Simplified cleanup for replaced transport sessions
 Fixed session cleanup when a retry completes after disconnect
 Improved handling for frames queued during reconnect
+Removed stale transport metadata after session replacement
