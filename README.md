@@ -114,3 +114,4 @@ Removed stale transport metadata after session replacement
 Fixed message ordering when reconnect completes during an active poll
 Improved validation for unexpected session responses
 Removed duplicate cleanup from the polling error path
+Fixed pending callback cleanup after transport replacement
