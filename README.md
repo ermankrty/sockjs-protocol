@@ -112,3 +112,4 @@ Fixed session cleanup when a retry completes after disconnect
 Improved handling for frames queued during reconnect
 Removed stale transport metadata after session replacement
 Fixed message ordering when reconnect completes during an active poll
+Improved validation for unexpected session responses
