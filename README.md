@@ -111,3 +111,4 @@ Simplified cleanup for replaced transport sessions
 Fixed session cleanup when a retry completes after disconnect
 Improved handling for frames queued during reconnect
 Removed stale transport metadata after session replacement
+Fixed message ordering when reconnect completes during an active poll
