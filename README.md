@@ -113,3 +113,4 @@ Improved handling for frames queued during reconnect
 Removed stale transport metadata after session replacement
 Fixed message ordering when reconnect completes during an active poll
 Improved validation for unexpected session responses
+Removed duplicate cleanup from the polling error path
